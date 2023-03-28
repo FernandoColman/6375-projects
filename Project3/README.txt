@@ -1,0 +1,1 @@
+The program is simply one python notebook. The only setup that is necessary is to put all the datasets into the same directory as the python notebook to access the datasets.
